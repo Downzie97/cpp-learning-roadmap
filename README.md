@@ -44,14 +44,14 @@ Each project introduces new concepts and builds on the previous ones.
 ## 📌 Upcoming Projects  
 
 ### [ ] 3. Student Gradebook Manager  
-- [ ] Add students (name, ID, grades)  
-- [ ] Calculate average, highest, lowest grade  
-- [ ] Save/load student data to file  
+- [x] Add students (name, ID, grades)  
+- [x] Calculate average, highest, lowest grade  
+- [x] Save/load student data to file  
 - [ ] Display students sorted by grade or name  
 - **Skills**: structs/classes, file I/O, sorting (`std::sort`), menus  
 
 **Stretch Goals**:  
-- [ ] Store multiple classes (Math, English, etc.)  
+- [x] Store multiple classes (Math, English, etc.)  
 - [ ] Weighted average (different subjects worth different percentages)  
 - [ ] Save data in CSV format  
 - [ ] Search students by ID or name  
